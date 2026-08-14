@@ -1,6 +1,6 @@
 # PR Walker
 
-Understand a pull request's intent—one meaningful file at a time.
+Understand a pull request's intent, one meaningful file at a time.
 
 PR Walker is an agent skill for getting up to speed on a pull request or branch. It explains what the change is trying to accomplish and why the code is structured that way, without turning the walkthrough into a code review.
 
